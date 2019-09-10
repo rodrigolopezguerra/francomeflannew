@@ -1,10 +1,6 @@
-- name: Contrafabulists
-  url: 'http://contrafabulists.com'
-- name: Google Sheets
-  url: 'https://docs.google.com/spreadsheets/'
-- name: Github
-  url: 'http://github.com'
-- name: API Evangelist
-  url: 'http://apievangelist.com'
-- name: Hack Education
-  url: 'http://hackeducation.com'
+- name: test
+  url: test
+- name: a
+  url: a
+- name: a
+  url: a
