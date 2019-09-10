@@ -1,6 +1,7 @@
 - name: test
   url: >-
-    https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png
+    <a
+    href="https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png">test</a>
 - name: a
   url: >-
     https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png
