@@ -1,6 +1,9 @@
 - name: test
-  url: test
+  url: >-
+    https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png
 - name: a
-  url: a
+  url: >-
+    https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png
 - name: a
-  url: a
+  url: >-
+    https://s3.amazonaws.com/kinlane-productions/lessons/personal-access-token.png
